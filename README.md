@@ -43,5 +43,8 @@ This will update the data from the user with the id 5.
 Send a GET request to http://localhost:8080/customers This will list all the users in the database.
 
 
+## Video
+https://user-images.githubusercontent.com/32430243/141358491-db75588d-86ea-4d66-883a-bd16c07237aa.mp4
+
 
 
