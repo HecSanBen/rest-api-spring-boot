@@ -15,10 +15,6 @@ public class CustomerModel {
     private String email;
     private String sms;
 
-    protected enum contact_preferences {
-        POSTAL, EMAIL, SMS
-    }
-
     public CustomerModel(Long id, String postal_address, String email, String sms) {
         this.id = id;
         this.postal_address = postal_address;
